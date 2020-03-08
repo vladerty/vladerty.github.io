@@ -33,6 +33,7 @@ a:hover {
 }
 
 p {
+	padding: 0 10px;
 	display: flex;
 	font-size: 35px;
 }
